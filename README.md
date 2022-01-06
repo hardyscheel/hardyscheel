@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 <p align = "center">
 I like and follow the advancements in JavaScript and Java technologies.</br>
 </p>
-
-<p align="center">
-  Feel free to connect with me on Twitter <a href="https://twitter.com/hascheel">@hascheel</a>
-</p >
