@@ -3,7 +3,7 @@
 I like and follow the advancements in JavaScript and Java technologies. My journey involves delving into the world of computer science, exploring new ideas and technologies, and sharing my insights with the community.
 
 ## 🚀 About Me
-- 🔭 I'm currently pursuing a retraining as an IT Specialist for Application Development.
+- 🔭 I'm currently doing a retraining as an IT specialist for application development.
 - 🌱 I’m currently learning Full Stack Web Development.
 
 ## ✨My Skills & Tech Stack
