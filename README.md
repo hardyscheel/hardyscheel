@@ -13,13 +13,13 @@ I like and follow the advancements in JavaScript and Java technologies. My journ
 ![My Skills](https://skillicons.dev/icons?i=debian,ubuntu,bash,git,github,docker&theme=light&perline=10)
 
 ## ⚡ Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=hascheel&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hascheel&layout=compact&theme=blueberry&show_icons=truecount_private=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=hardyscheel&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardyscheel&layout=compact&theme=blueberry&show_icons=truecount_private=true&hide_border=true)
 
 Thanks for stopping by!
 
 <!--
-**hascheel/hascheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hardyscheel/hardyscheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -40,13 +40,13 @@ I like and follow the advancements in JavaScript and Java technologies.</br>
 
 I am a passionate M.Tech CS student at ..., driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=hascheel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=hardyscheel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hascheel&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hascheel&layout=compact&theme=blueberry&show_icons=truecount_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hardyscheel&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardyscheel&layout=compact&theme=blueberry&show_icons=truecount_private=true&hide_border=true)</a>
 </details>
 
 ## 🚀 About Me
